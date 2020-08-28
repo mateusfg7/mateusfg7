@@ -10,6 +10,7 @@
 ### ✨ Contact
 - Email `mateusfelipefg77@gmail.com`
 - Linkedin [`mateusfg`](https://www.linkedin.com/in/mateusfg/)
+- Telegram [`mateusfg7`](https://t.me/mateusfg7)
 - Discord `mateusfg7#7944`
 
 <!--
@@ -31,15 +32,17 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 1. Javascript
 2. Typescript
 3. Python
+4. ShellScript
 ```
-<!--
+
 ```
 - I only know 'Hello World'...
-1. C
-2. C++ (currently studying)
-3. Rust
+1. Rust
+2. Java
+3. C++ 
+
 ```
--->
+
 
 ### 🌐 Languages
 1. Portuguese (Maternal)
