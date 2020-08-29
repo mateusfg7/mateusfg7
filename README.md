@@ -27,7 +27,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 -->
 
 ### 💻 Programming
-```
+```bash
 - I can build some cool stuff with...
 1. Javascript
 2. Typescript
@@ -35,12 +35,11 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 4. ShellScript
 ```
 
-```
-- I only know 'Hello World'...
+```bash
+I only know 'Hello World'...
 1. Rust
 2. Java
 3. C++ 
-
 ```
 
 
