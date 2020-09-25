@@ -15,19 +15,19 @@
 
 <!-- ## 💻 Programming -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&langs_count=15&hide=jupyter%20notebook,html" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell" align="left">
 <div align="center">
 
 ### Frameworks
 
-React
-Node
-React Native
-Deno
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvideo-react.js.org%2Fassets%2Flogo.png&f=1&nofb=1" width="100" alt="ReactJS React Native">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpretty-dece.com%2Fimages%2FLogos%2Fnodejs-icon.png&f=1&nofb=1A%2F%2Fassets.toptal.io%2Fuploads%2Fblog%2Fcategory%2Flogo%2F45%2Fnodejs.png&f=1&nofb=1" width="100" alt="NodeJS">
+<img src="https://denoland.gallerycdn.vsassets.io/extensions/denoland/vscode-deno/2.2.3/1600021173441/Microsoft.VisualStudio.Services.Icons.Default" width="100" alt="Deno">
 
 ### Languages
 
-Portuguese (Maternal)
-English (Intermediate, read only)
+:brazil: Portuguese (Maternal)
+
+:us: English (Intermediate, read only)
 
 </div>
