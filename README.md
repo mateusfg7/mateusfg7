@@ -22,7 +22,7 @@
 [![telegram: mateusfg7](https://img.shields.io/static/v1?label=Telegram&message=%20&color=2CA5E0&labelColor=2CA5E0&logoColor=FFF&style=for-the-badge&logo=telegram)](https://t.me/mateusfg7)
 ![discord](https://img.shields.io/static/v1?label=mateusfg7%237944&message=%20&color=7289DA&labelColor=7289DA&logoColor=FFF&style=for-the-badge&logo=discord)
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&hide_border=true)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true)
 
 </div>
 
