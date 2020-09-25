@@ -1,20 +1,29 @@
-## Mateus Felipe
+<div align="center">
 
-<!--
-## 📌 Mateus Felipe
-> 💡 Web Developer
--->
+# Mateus Felipe
+
+![](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&bg_color=24292E&text_color=FFFFFF&hide_border=true)
+
+![](https://img.shields.io/static/v1?label=Email&message=mateusfg7@protonmail.com&color=8B89CC&labelColor=FFF&style=for-the-badge&logo=protonmail)
+![](https://img.shields.io/static/v1?label=Linkedin&message=mateusfg&color=0077B5&labelColor=fff&logoColor=0077B5&style=for-the-badge&logo=linkedin)
+![](https://img.shields.io/static/v1?label=Telegram&message=mateusfg7&color=2CA5E0&labelColor=fff&style=for-the-badge&logo=telegram)
+![](https://img.shields.io/static/v1?label=Discord&message=mateusfg7%237944&color=7289DA&labelColor=fff&style=for-the-badge&logo=discord)
+
+</div>
+
 ### ✔ Github Stats
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true)
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&hide_border=true)
 
 ### ✨ Contact
+
 - Email `mateusfelipefg77@gmail.com`
 - Linkedin [`mateusfg`](https://www.linkedin.com/in/mateusfg/)
 - Telegram [`mateusfg7`](https://t.me/mateusfg7)
 - Discord `mateusfg7#7944`
 
 <!--
-### ⚡ Fast answers 
+### ⚡ Fast answers
 ```dart
 [ ] Coffe    [ ] Tea    [x] Chocolate
 [x] Rain     [ ] Sun    [ ] Snow
@@ -27,6 +36,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 -->
 
 ### 💻 Programming
+
 ```bash
 - I can build some cool stuff with...
 1. Javascript
@@ -39,11 +49,11 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 I only know 'Hello World'...
 1. Rust
 2. Java
-3. C++ 
+3. C++
 ```
 
-
 ### 🌐 Languages
+
 1. Portuguese (Maternal)
 2. English (Intermediate, read only)
 
