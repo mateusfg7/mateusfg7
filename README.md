@@ -28,17 +28,6 @@
 
 ---
 
-### ✔ Github Stats
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&hide_border=true)
-
-### ✨ Contact
-
-- Email `mateusfelipefg77@gmail.com`
-- Linkedin [`mateusfg`](https://www.linkedin.com/in/mateusfg/)
-- Telegram [`mateusfg7`](https://t.me/mateusfg7)
-- Discord `mateusfg7#7944`
-
 <!--
 ### ⚡ Fast answers
 ```dart
