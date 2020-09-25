@@ -11,11 +11,8 @@
 ![](https://img.shields.io/static/v1?label=Discord&message=mateusfg7%237944&color=7289DA&labelColor=fff&style=for-the-badge&logo=discord) -->
 
 ![](https://img.shields.io/static/v1?label=Email&message=mateusfg7@protonmail.com&color=fff&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)
-
 ![](https://img.shields.io/static/v1?label=Linkedin&message=mateusfg&color=FFF&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)
-
 ![](https://img.shields.io/static/v1?label=Telegram&message=mateusfg7&color=FFF&labelColor=2CA5E0&logoColor=FFF&style=for-the-badge&logo=telegram)
-
 ![](https://img.shields.io/static/v1?label=Discord&message=mateusfg7%237944&color=FFF&labelColor=7289DA&logoColor=FFF&style=for-the-badge&logo=discord)
 
 ### ✔ Github Stats
