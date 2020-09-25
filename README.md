@@ -26,6 +26,8 @@
 
 </div>
 
+---
+
 ### ✔ Github Stats
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&hide_border=true)
