@@ -1,15 +1,11 @@
-<div align="center">
-
 # Mateus Felipe
 
-![](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&bg_color=24292E&text_color=FFFFFF&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&hide_border=true)
 
 ![](https://img.shields.io/static/v1?label=Email&message=mateusfg7@protonmail.com&color=8B89CC&labelColor=FFF&style=for-the-badge&logo=protonmail)
 ![](https://img.shields.io/static/v1?label=Linkedin&message=mateusfg&color=0077B5&labelColor=fff&logoColor=0077B5&style=for-the-badge&logo=linkedin)
 ![](https://img.shields.io/static/v1?label=Telegram&message=mateusfg7&color=2CA5E0&labelColor=fff&style=for-the-badge&logo=telegram)
 ![](https://img.shields.io/static/v1?label=Discord&message=mateusfg7%237944&color=7289DA&labelColor=fff&style=for-the-badge&logo=discord)
-
-</div>
 
 ### ✔ Github Stats
 
