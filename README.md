@@ -15,15 +15,19 @@
 
 <!-- ## 💻 Programming -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&langs_count=15&hide=jupyter%20notebook,html)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&langs_count=15&hide=jupyter%20notebook,html" align="left">
+<div align="center">
 
-<!-- I only know 'Hello World'...
+### Frameworks
 
-1. Rust
-2. Java
-3. C++ -->
+React
+Node
+React Native
+Deno
 
-## 🌐 Languages
+### Languages
 
-1. Portuguese (Maternal)
-2. English (Intermediate, read only)
+Portuguese (Maternal)
+English (Intermediate, read only)
+
+</div>
