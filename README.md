@@ -15,7 +15,7 @@
 
 <!-- ## 💻 Programming -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&show_borders=false&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell&title_color=000" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&hide_border=true&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell&title_color=000" align="left">
 
 <div align="center">
 
