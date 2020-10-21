@@ -25,11 +25,18 @@
 
 <div align="center">
 
-### Frameworks
+### Technologies
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvideo-react.js.org%2Fassets%2Flogo.png&f=1&nofb=1" width="100" alt="ReactJS React Native">
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpretty-dece.com%2Fimages%2FLogos%2Fnodejs-icon.png&f=1&nofb=1A%2F%2Fassets.toptal.io%2Fuploads%2Fblog%2Fcategory%2Flogo%2F45%2Fnodejs.png&f=1&nofb=1" width="100" alt="NodeJS">
-<img src="https://denoland.gallerycdn.vsassets.io/extensions/denoland/vscode-deno/2.2.3/1600021173441/Microsoft.VisualStudio.Services.Icons.Default" width="100" alt="Deno">
+![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=for-the-badge&logo=react&logoColor=000)
+![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?&style=for-the-badge&logo=next.js&logoColor=FFF)
+
+![Deno](https://img.shields.io/badge/Deno-000?&style=for-the-badge&logo=deno&logoColor=FFF)
+![NodeJS](https://img.shields.io/badge/Node%20JS-339933?&style=for-the-badge&logo=node.js&logoColor=FFF)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=FFF)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)
+
 
 ### Languages
 
