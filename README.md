@@ -25,17 +25,15 @@
 
 <div align="center">
 
+
+### Languages
+
+![:brazil: Portuguese (Maternal)](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=61C286&style=for-the-badge&logo=pt-br&logoColor=000)
+
+![:us: English (Intermediate, read only)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read%20only&labelColor=6166C2&style=for-the-badge&logo=pt-br&logoColor=000
+)
+
 ### Technologies
-
-<!-- ![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=for-the-badge&logo=react&logoColor=000)
-![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?&style=for-the-badge&logo=next.js&logoColor=FFF)
-
-![Deno](https://img.shields.io/badge/Deno-000?&style=for-the-badge&logo=deno&logoColor=FFF)
-![NodeJS](https://img.shields.io/badge/Node%20JS-339933?&style=for-the-badge&logo=node.js&logoColor=FFF)
-![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=FFF)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000) -->
 
 ![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=flat&logo=react&logoColor=000)
 ![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=flat&logo=react&logoColor=000)
@@ -46,21 +44,5 @@
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=flat&logo=gnu-bash&logoColor=FFF)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000)
-
-
-### Languages
-
-![:brazil: Portuguese (Maternal)](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=61C286&style=for-the-badge&logo=pt-br&logoColor=000)
-
-![:us: English (Intermediate, read only)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read%20only&labelColor=6166C2&style=for-the-badge&logo=pt-br&logoColor=000
-)
-
-![:brazil: Portuguese (Maternal)](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=61C286&style=flat-square&logo=pt-br&logoColor=000)
-
-![:us: English (Intermediate, read only)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read%20only&labelColor=6166C2&style=flat-square&logo=pt-br&logoColor=000
-)
-
-:brazil: Portuguese (Maternal)
-:us: English (Intermediate, read only)
 
 </div>
