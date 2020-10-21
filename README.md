@@ -27,7 +27,7 @@
 
 ### Technologies
 
-![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=for-the-badge&logo=react&logoColor=000)
+<!-- ![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=for-the-badge&logo=react&logoColor=000)
 ![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000?&style=for-the-badge&logo=next.js&logoColor=FFF)
 
@@ -35,7 +35,17 @@
 ![NodeJS](https://img.shields.io/badge/Node%20JS-339933?&style=for-the-badge&logo=node.js&logoColor=FFF)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=FFF)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000) -->
+
+![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=flat&logo=react&logoColor=000)
+![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=flat&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
+
+![Deno](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF)
+![NodeJS](https://img.shields.io/badge/Node%20JS-339933?&style=flat&logo=node.js&logoColor=FFF)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=flat&logo=gnu-bash&logoColor=FFF)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000)
 
 
 ### Languages
