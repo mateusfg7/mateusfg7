@@ -4,7 +4,7 @@
 
 [![linkedin: mateusfg](https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mateusfg)[![telegram: mateusfg7](https://img.shields.io/badge/telegram-2CA5E0?&style=for-the-badge&logo=telegram)](https://t.me/mateusfg7)[![email: mateusfg7@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:mateusfg7@protonmail.com)![discord](https://img.shields.io/badge/discord-7289DA?&label=mateusfg7%237944&labelColor=222&style=for-the-badge&logo=discord&logoColor=7289DA)
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&title_color=222&icon_color=222&text_color=000)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=mateusfg7&show_icons=true&title_color=222&icon_color=222&text_color=000&bg_color=f0f0f05f)
 
 <!-- [![email: mateusfg7@protonmail.com](https://img.shields.io/badge/email-8B89CC?&label=mateusfg7@protonmail.com&labelColor=222&style=for-the-badge&logo=protonmail&logoColor=8B89CC)](mailto:mateusfg7@protonmail.com)
 [![linkedin: mateusfg](https://img.shields.io/badge/linkedin-0077B5?&label=mateusfg&labelColor=222&&style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/mateusfg)
