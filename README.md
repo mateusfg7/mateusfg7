@@ -30,8 +30,11 @@
 
 ## Languages
 
-![:brazil: Portuguese (Maternal)](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=61C286&style=for-the-badge&logo=pt-br&logoColor=000)
+<!-- ![:brazil: Portuguese (Maternal)](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=61C286&style=for-the-badge&logo=pt-br&logoColor=000)
 ![:us: English (Intermediate, read only)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read%20only&labelColor=6166C2&style=for-the-badge&logo=pt-br&logoColor=000
+) -->
+![:brazil: Portuguese (Maternal)](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
+![:us: English (Intermediate, read only)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read%20only&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000
 )
 
 ## Technologies
