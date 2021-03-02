@@ -38,27 +38,34 @@
 ![:us: English (Intermediate, read only)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read%20only&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000
 )
 -->
- - Portuguese (Maternal)
- - English (Intermediate, read/write only)
+ Portuguese (Maternal)
+ English (Intermediate, read/write only)
 
 **Technologies**
 
-_Web_
+<table>
+ <tr>
+  <td align="center">
+   <i>Web</i>
+  </td>
+  <td align="center">
+   <i>Back-end</i>
+  </td>
+  <td align="center">
+   <i>S.O.</i>
+  </td>
+  <td align="center">
+   <i>DevOps</i>
+  </td>
+ </tr>
+ <tr>
+  <td align="center"> <img src="https://img.shields.io/badge/React%20JS-61DAFB?&style=flat&logo=react&logoColor=000" alt="ReactJS"/> <img src="https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF" alt="Next.js"></td>
+  <td align="center"> <img src="https://img.shields.io/badge/Node%20JS-339933?&style=flat&logo=node.js&logoColor=FFF" alt="Node.js"> <img src="https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF" alt="Deno"></td>
+  <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000" alt="Linux"></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shell%20Script-4EAA25?&style=flat&logo=gnu-bash&logoColor=FFF" alt="Shell Script"></td>
+ </tr>
+</table>
 
-![ReactJS](https://img.shields.io/badge/React%20JS-61DAFB?&style=flat&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
-
-_Back-end_
-
-![Deno](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF) ![NodeJS](https://img.shields.io/badge/Node%20JS-339933?&style=flat&logo=node.js&logoColor=FFF)
-
-_SO_
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000)
-
-
-_DevOps_
-
-![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=flat&logo=gnu-bash&logoColor=FFF)
 
 <!--
 ![ReactJS](https://img.shields.io/badge/React%20Native-88dff7?&style=flat&logo=react&logoColor=000)
