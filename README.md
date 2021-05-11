@@ -23,7 +23,7 @@
 <!-- ## 💻 Programming -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&hide_border=true&bg_color=ffffff5f&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell,java&title_color=000" align="left"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=30&hide=jupyter%20notebook,html,c%2B%2B,php,shell,java,css" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfg7&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html" align="left">
 
 <div align="center">
 
@@ -41,30 +41,22 @@
  Portuguese (Maternal)
  English (Intermediate, read/write only)
 
-**Technologies**
+**Interests**
 
-<table>
- <tr>
-  <td align="center">
-   <i>Web</i>
-  </td>
-  <td align="center">
-   <i>Back-end</i>
-  </td>
-  <td align="center">
-   <i>S.O.</i>
-  </td>
-  <td align="center">
-   <i>DevOps</i>
-  </td>
- </tr>
- <tr>
-  <td align="center"> <img src="https://img.shields.io/badge/React%20JS-61DAFB?&style=flat&logo=react&logoColor=000" alt="ReactJS"/> <img src="https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF" alt="Next.js"></td>
-  <td align="center"> <img src="https://img.shields.io/badge/Node%20JS-339933?&style=flat&logo=node.js&logoColor=FFF" alt="Node.js"> <img src="https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF" alt="Deno"></td>
-  <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000" alt="Linux"></td>
-  <td align="center"><img src="https://img.shields.io/badge/Shell%20Script-4EAA25?&style=flat&logo=gnu-bash&logoColor=FFF" alt="Shell Script"></td>
- </tr>
-</table>
+![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?&style=flat&logo=gnu-bash&logoColor=FFF)
+![Node.js](https://img.shields.io/badge/Node%20JS-339933?&style=flat&logo=node.js&logoColor=FFF)
+
+![Deno](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF)
+![Next.js](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
+![React.js](https://img.shields.io/badge/React%20JS-61DAFB?&style=flat&logo=react&logoColor=000)
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?&style=flat&logo=react&logoColor=000)
+
+
+
+
+
 
 
 <!--
