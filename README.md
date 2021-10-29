@@ -1,4 +1,4 @@
-<img src="hhttps://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="right">
+<img src="https://i2.wp.com/www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif?w=640&ssl=1" align="right">
 
 [![email: mateusfg7@protonmail.com](https://img.shields.io/badge/MATEUSFELIPEFG77@GMAIL.COM-222?&label=Email&labelColor=EA4335&style=flat-square&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
 
