@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif" width="270" align="right">
+<img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="270" align="right">
 
 [![email: mateusfg7@protonmail.com](https://img.shields.io/badge/mateusfelipefg77@gmail.com-222?&label=email&labelColor=EA4335&style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
 
