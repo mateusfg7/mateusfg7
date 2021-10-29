@@ -1,5 +1,5 @@
-<!-- <img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="170" align="right"> -->
-<img src="https://cdn.pling.com/img//hive/content-pre1/132540-1.gif" width="170" align="right">
+<img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="170" align="right">
+<!-- <img src="https://cdn.pling.com/img//hive/content-pre1/132540-1.gif" width="170" align="right"> -->
 
 [![email: mateusfg7@protonmail.com](https://img.shields.io/badge/mateusfelipefg77@gmail.com-222?&label=email&labelColor=EA4335&style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
 [![linkedin: mateusfg](https://img.shields.io/badge/mateusfg-222?&label=linkedin&labelColor=0077B5&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mateusfg)
