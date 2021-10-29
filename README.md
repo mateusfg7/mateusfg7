@@ -1,7 +1,29 @@
+<div align="left">
+
+[![email: mateusfg7@protonmail.com](https://img.shields.io/badge/MATEUSFELIPEFG77@GMAIL.COM-222?&label=Email&labelColor=EA4335&style=flat-square&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
+
+[![linkedin: mateusfg](https://img.shields.io/badge/MATEUSFG-222?&label=Linkedin&labelColor=0077B5&style=flat-square&logo=linkedin)](https://linkedin.com/in/mateusfg)
+
+[![telegram: mateusfg7](https://img.shields.io/badge/MATEUSFG7-222?&label=Telegram&labelColor=2CA5E0&style=flat-square&logo=telegram)](https://t.me/mateusfg7)
+
+![discord](https://img.shields.io/badge/MATEUSFG7%237944-222?&label=Discord&labelColor=7289DA&style=flat-square&logo=discord&logoColor=FFF)
+
+</div>
+
+
+<div align="right">
+
+[![email: mateusfg7@protonmail.com](https://img.shields.io/badge/MATEUSFELIPEFG77@GMAIL.COM-222?&label=Email&labelColor=EA4335&style=flat-square&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
+
+[![linkedin: mateusfg](https://img.shields.io/badge/MATEUSFG-222?&label=Linkedin&labelColor=0077B5&style=flat-square&logo=linkedin)](https://linkedin.com/in/mateusfg)
+
+[![telegram: mateusfg7](https://img.shields.io/badge/MATEUSFG7-222?&label=Telegram&labelColor=2CA5E0&style=flat-square&logo=telegram)](https://t.me/mateusfg7)
+
+![discord](https://img.shields.io/badge/MATEUSFG7%237944-222?&label=Discord&labelColor=7289DA&style=flat-square&logo=discord&logoColor=FFF)
+
+</div>
+
 <div align="center">
-
-
-[![email: mateusfg7@protonmail.com](https://img.shields.io/badge/MATEUSFELIPEFG77@GMAIL.COM-222?&label=Email&labelColor=EA4335&style=flat-square&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com) [![linkedin: mateusfg](https://img.shields.io/badge/MATEUSFG-222?&label=Linkedin&labelColor=0077B5&style=flat-square&logo=linkedin)](https://linkedin.com/in/mateusfg) [![telegram: mateusfg7](https://img.shields.io/badge/MATEUSFG7-222?&label=Telegram&labelColor=2CA5E0&style=flat-square&logo=telegram)](https://t.me/mateusfg7) ![discord](https://img.shields.io/badge/MATEUSFG7%237944-222?&label=Discord&labelColor=7289DA&style=flat-square&logo=discord&logoColor=FFF)
 
 ---
 
