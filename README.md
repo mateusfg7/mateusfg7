@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/516022/screenshots/6413056/2.gif" width="190" align="right">
+<img src="https://cdn.dribbble.com/users/516022/screenshots/6413056/2.gif" width="250" align="right">
 
 [![email: mateusfg7@protonmail.com](https://img.shields.io/badge/mateusfelipefg77@gmail.com-222?&label=email&labelColor=EA4335&style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
 
