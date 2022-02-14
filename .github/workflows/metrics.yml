@@ -41,9 +41,11 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_details: percentage
-          plugin_languages_ignored: scss, css, ejs, html
-          plugin_languages_limit: 15
+          plugin_languages_details: lines
+          plugin_languages_ignored: scss, css, ejs, html, qml
+          plugin_languages_indepth: yes
+          commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -51,7 +53,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_topics: yes
-          plugin_topics_limit: 15
+          plugin_topics_limit: 20
           plugin_topics_mode: icons
           plugin_topics_sort: random
           plugin_traffic: yes
