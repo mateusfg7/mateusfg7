@@ -30,7 +30,7 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_animations: yes
           
-          base: header, activity, repositories, metadata, community
+          base: header, activity, repositories, metadata
           base_indepth: yes
           repositories_forks: yes
           repositories: 150
@@ -53,7 +53,6 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used
-          plugin_languages_other: yes
           
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -69,6 +68,3 @@ jobs:
           plugin_traffic: yes
           
           plugin_code: yes
-          
-          plugin_rss: yes
-          plugin_rss_source: https://mateusf.vercel.app/feed
