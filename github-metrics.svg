@@ -277,7 +277,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 69.8k out of 121m users</span>
+                                    <span class="gh">ranked 69.8k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 161 public repositories</div>
                             </div>
@@ -607,7 +607,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 51.8k out of 121m users</span>
+                                    <span class="gh">ranked 51.8k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 168 users</div>
                             </div>
@@ -655,7 +655,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.30930930930931 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.464464464464465 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -678,9 +678,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 479k out of 50.2m repositories</span>
+                                    <span class="gh">ranked 473k out of 45.1m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 61 stars</div>
+                                <div class="text">Maintaining a repository with 62 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1013,7 +1013,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2023, 09:15:26 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Oct 2023, 15:10:17 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
