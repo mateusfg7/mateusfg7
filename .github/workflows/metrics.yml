@@ -57,7 +57,6 @@ jobs:
           
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
           
          # plugin_topics: yes
           plugin_topics_limit: 20
