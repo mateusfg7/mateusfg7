@@ -20,7 +20,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          #token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mateusfg7
@@ -28,7 +28,7 @@ jobs:
           
           config_display: large
           config_timezone: America/Sao_Paulo
-          config_animations: yes
+          #config_animations: yes
           
           #base: header, activity, repositories, metadata
           base: header
