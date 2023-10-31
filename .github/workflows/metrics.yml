@@ -28,20 +28,19 @@ jobs:
           
           config_display: large
           config_timezone: America/Sao_Paulo
-          #config_animations: yes
+          config_animations: yes
           
-          #base: header, activity, repositories, metadata
-          base: header
-          #base_indepth: yes
-          #repositories_forks: yes
+          base: header, activity, repositories, metadata
+          base_indepth: yes
+          repositories_forks: yes
           repositories: 150
           repositories_affiliations: owner, collaborator
           commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
                     
-          #plugin_lines: yes
+          plugin_lines: yes
           plugin_lines_history_limit: 3
           
-          #plugin_languages: yes
+          plugin_languages: yes
           plugin_languages_ignored: scss, css, html, qml
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
@@ -59,12 +58,12 @@ jobs:
           plugin_achievements_threshold: B
           plugin_achievements_secrets: no
           
-         # plugin_topics: yes
+          plugin_topics: yes
           plugin_topics_limit: 20
           plugin_topics_mode: icons
           plugin_topics_sort: starred
           
-          #plugin_traffic: yes
+          plugin_traffic: yes
           
-          #plugin_code: yes
+          plugin_code: yes
           plugin_code_lines: 6
