@@ -63,6 +63,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: starred
           
-          plugin_traffic: yes
+          #plugin_traffic: yes
           
           plugin_code: yes
+          plugin_code_lines: 6
