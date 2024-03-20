@@ -1,8 +1,7 @@
 <img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="170" align="right">
 <!-- <img src="https://cdn.pling.com/img//hive/content-pre1/132540-1.gif" width="170" align="right"> -->
 
-<img src="https://mateusf.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsignature-light.d5968cc5.png&w=1080&q=75" width="170">
-
+<img src="sign.svg" width="200">
 
 <!-- [![email: mateusfg7@protonmail.com](https://img.shields.io/badge/MATEUSFELIPEFG77@GMAIL.COM-222?&label=Email&labelColor=EA4335&style=flat-square&logo=gmail&logoColor=FFF)](mailto:mateusfelipefg77@gmail.com)
 
