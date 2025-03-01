@@ -45,7 +45,7 @@ jobs:
           plugin_traffic: yes
           
           plugin_languages: yes
-          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx
+          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx, starlark, powershell, shell
           plugin_languages_analysis_timeout: 200
           plugin_languages_analysis_timeout_repositories: 50
           plugin_languages_categories: programming
