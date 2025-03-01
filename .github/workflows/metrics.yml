@@ -36,6 +36,8 @@ jobs:
           repositories: 50
           repositories_affiliations: owner, collaborator
           commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
+
+          plugins_errors_fatal: true
           
           plugin_lines: yes
           plugin_lines_history_limit: 3
@@ -43,7 +45,7 @@ jobs:
           plugin_traffic: yes
           
           plugin_languages: yes
-          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, jupyter notebook, mdx, markdown
+          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, jupyter notebook, mdx, markdown, javascript, dart
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: programming
