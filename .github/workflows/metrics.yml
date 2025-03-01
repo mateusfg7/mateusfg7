@@ -38,6 +38,7 @@ jobs:
           commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
 
           plugins_errors_fatal: true
+          debug: true
           
           plugin_lines: yes
           plugin_lines_history_limit: 3
@@ -58,14 +59,14 @@ jobs:
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used, recently-used
           
-          # plugin_achievements: yes
-          # plugin_achievements_threshold: B
-          # plugin_achievements_secrets: no
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: no
           
           # plugin_topics: yes
           # plugin_topics_limit: 20
           # plugin_topics_mode: icons
           # plugin_topics_sort: starred
           
-          # plugin_code: yes
-          # plugin_code_lines: 6
+          plugin_code: yes
+          plugin_code_lines: 6
