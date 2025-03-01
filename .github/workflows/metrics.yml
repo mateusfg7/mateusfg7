@@ -52,11 +52,11 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: lines
           #plugin_languages_indepth: yes
-          plugin_languages_limit: 15
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 120
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: programming
+          plugin_languages_recent_days: 90
           plugin_languages_recent_load: 1000
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
           
           # plugin_achievements: yes
           # plugin_achievements_threshold: B
