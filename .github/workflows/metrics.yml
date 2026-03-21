@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # - uses: gh-metrics/metrics@master
-      - uses: gh-metrics/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -34,7 +34,7 @@ jobs:
           base: header, activity, repositories, metadata, community
           base_indepth: yes
           # repositories_forks: yes
-          repositories: 78
+          repositories: 60
           repositories_affiliations: owner, collaborator
           commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
 
@@ -48,18 +48,18 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx, starlark, powershell, shell
-          #plugin_languages_analysis_timeout: 200
-          #plugin_languages_analysis_timeout_repositories: 50
+          plugin_languages_analysis_timeout: 200
+          plugin_languages_analysis_timeout_repositories: 50
           plugin_languages_categories: programming
           plugin_languages_colors: github
-          #plugin_languages_details: lines
+          plugin_languages_details: lines
           #plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: programming
-          #plugin_languages_recent_days: 90
-          #plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 60
+          plugin_languages_recent_load: 1000
           #plugin_languages_sections: most-used, recently-used
-          plugin_languages_sections: most-used
+          plugin_languages_sections: recently-used
           
           plugin_achievements: yes
           plugin_achievements_threshold: B
