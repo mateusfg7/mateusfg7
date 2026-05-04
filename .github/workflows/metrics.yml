@@ -31,11 +31,11 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_animations: yes
           
-          # base: header, activity, repositories, metadata, community
-          # base_indepth: yes
-          # repositories_forks: yes
-          # repositories: 60
-          # repositories_affiliations: owner, collaborator
+          base: header, activity, repositories, metadata, community
+          base_indepth: yes
+          repositories_forks: yes
+          repositories: 60
+          repositories_affiliations: owner, collaborator
           # commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
 
           plugins_errors_fatal: false
