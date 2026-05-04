@@ -1,6 +1,6 @@
 <!-- <img src="http://blogporta80.com.br/arquivosDoSite/sidebar/imagens/tux.gif" width="170" align="right"> -->
 <!-- <img src="https://cdn.pling.com/img//hive/content-pre1/132540-1.gif" width="170" align="right"> -->
-<img src="i-am-root.png" width="140" align="right">
+<!-- <img src="i-am-root.png" width="140" align="right"> -->
 
 <!-- <a target="_blank" href="https://mateusf.com">
 <img src="website.svg" width="250">
