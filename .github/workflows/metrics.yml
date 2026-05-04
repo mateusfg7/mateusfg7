@@ -41,21 +41,21 @@ jobs:
           plugins_errors_fatal: false
           debug: true
           
-          # plugin_lines: yes
-          # plugin_lines_history_limit: 3
+          plugin_lines: yes
+          plugin_lines_history_limit: 3
 
           # plugin_traffic: yes
           
-          # plugin_languages: yes
-          # plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx, starlark, powershell, shell
+          plugin_languages: yes
+          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx, starlark, powershell, shell
           # plugin_languages_analysis_timeout: 200
           # plugin_languages_analysis_timeout_repositories: 50
-          # plugin_languages_categories: programming
-          # plugin_languages_colors: github
+          plugin_languages_categories: programming
+          plugin_languages_colors: github
           # plugin_languages_details: lines
           #plugin_languages_indepth: yes
-          # plugin_languages_limit: 8
-          # plugin_languages_recent_categories: programming
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: programming
           # plugin_languages_recent_days: 60
           # plugin_languages_recent_load: 1000
           #plugin_languages_sections: most-used, recently-used
