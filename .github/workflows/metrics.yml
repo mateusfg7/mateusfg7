@@ -1,9 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (every day at 00:00h)
   schedule: [{ cron: "0 0 * * 1,3" }]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: ["master", "main"] }
 jobs:
@@ -47,22 +45,13 @@ jobs:
           plugin_traffic: yes
 
           plugin_languages: yes
-          plugin_languages_ignored: scss, css, html, qml, perl, lua, ruby, objective-c++, objective-c, jupyter notebook, mdx, markdown, dockerfile, javascript, dart, tsx, starlark, powershell, shell, vbscript, makefile, vim script, smarty, nix, renderscript, qmake, just
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 0
+          plugin_languages_ignored: scss,css,html,qml,perl,lua,ruby,objective-c++,objective-c,jupyter notebook,mdx,markdown,dockerfile,javascript,dart,tsx,starlark,powershell,shell,vbscript,makefile,vim script,smarty,nix,renderscript,qmake,just
           plugin_languages_categories: programming
-          # plugin_languages_colors: github
-          # plugin_languages_details: lines
-          # plugin_languages_indepth: yes
-          # plugin_languages_limit: 8
           plugin_languages_recent_categories: programming
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used, recently-used
           plugin_languages_other: no
 
           plugin_isocalendar: yes
-          # plugin_isocalendar_duration: full-year
 
           plugin_habits: yes
           plugin_habits_from: 1000
@@ -71,14 +60,13 @@ jobs:
           plugin_habits_facts: yes
 
           plugin_notable: yes
-          # plugin_notable_filter: commits
           plugin_notable_from: all
-          plugin_notable_indepth: yes
           plugin_notable_types: commit,pull_request,issue
-          #plugin_notable_self: yes # include own repositories
+          # plugin_notable_indepth: yes
+          # plugin_notable_filter: commits
 
-          plugin_activity: yes
-          plugin_activity_visibility: all
+          # plugin_activity: yes
+          # plugin_activity_visibility: all
 
           plugin_introduction: yes
 
@@ -91,5 +79,5 @@ jobs:
           # plugin_topics_m1ode: icons
           # plugin_topics_sort: starred
 
-          plugin_code: yes
-          plugin_code_lines: 6
+          # plugin_code: yes
+          # plugin_code_lines: 6
