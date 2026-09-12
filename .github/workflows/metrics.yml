@@ -78,7 +78,7 @@ jobs:
           #plugin_notable_self: yes # include own repositories
 
           plugin_activity: yes
-          plugin_activity_visibility: public
+          plugin_activity_visibility: all
 
           plugin_introduction: yes
 
