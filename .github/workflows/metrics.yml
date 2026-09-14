@@ -65,8 +65,8 @@ jobs:
           # plugin_notable_indepth: yes
           # plugin_notable_filter: commits
 
-          plugin_activity: yes
-          plugin_activity_visibility: all
+          # plugin_activity: yes
+          # plugin_activity_visibility: all
 
           plugin_introduction: yes
 
