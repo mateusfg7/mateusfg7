@@ -31,7 +31,7 @@ jobs:
 
           base: header, activity, repositories, metadata, community
           base_indepth: yes
-          repositories_forks: yes
+          repositories_forks: no
           repositories: 100
           repositories_affiliations: owner, collaborator
           # commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
